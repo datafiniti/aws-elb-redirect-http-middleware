@@ -11,9 +11,9 @@
   "keywords": [
     "aws",
     "AWS",
-    "elb"
+    "elb",
     "Elastic Load Balancer",
-    "redirect http"
+    "redirect http",
     "redirect https"
   ],
   "author": "Moe Jangda",
