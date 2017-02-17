@@ -1,6 +1,6 @@
 {
   "name": "aws-elb-redirect-http-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Redirects all HTTP traffic from an AWS Elastic Load Balancer to HTTPS without resorting to nginx or apache",
   "main": "aws-elb-redirect-http-middleware.js",
   "dependencies": {},
