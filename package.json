@@ -1,0 +1,26 @@
+{
+  "name": "aws-elb-redirect-http-middleware",
+  "version": "1.0.0",
+  "description": "Redirects all HTTP traffic from an AWS Elastic Load Balancer to HTTPS without resorting to nginx or apache",
+  "main": "aws-elb-redirect-http-middleware.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datafiniti/aws-elb-redirect-http-middleware"
+  },
+  "keywords": [
+    "aws",
+    "AWS",
+    "elb"
+    "Elastic Load Balancer",
+    "redirect http"
+    "redirect https"
+  ],
+  "author": "Moe Jangda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datafiniti/aws-elb-redirect-http-middleware/issues"
+  },
+  "homepage": "https://github.com/datafiniti/aws-elb-redirect-http-middleware"
+}
+
